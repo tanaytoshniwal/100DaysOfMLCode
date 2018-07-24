@@ -25,3 +25,12 @@ Really Excited to learn Machine Learning in a more effective way
 
 ### Thoughts
 It was full of fun, learnt a lot about dealing with **rank 1 arrays** as well as keeping a track on the shape of the matrices.
+
+## Day 3 (**24<sup>th</sup> July 2018**):
+---
+### Progress
++   Learnt about Vectorization in detail and its importance in Machine Learning practices
++   Completed the Machine Learning Crash Course till **Generalization**
+
+### Thoughts
+Now I realized why matrix manipulation is important. Vectorization actually helps a lot and it is the key feature because of which now we are able to run Machine Learning Algorithms much more faster.
