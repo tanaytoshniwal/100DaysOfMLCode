@@ -26,7 +26,7 @@ Really Excited to learn Machine Learning in a more effective way
 ### Thoughts
 It was full of fun, learnt a lot about dealing with **rank 1 arrays** as well as keeping a track on the shape of the matrices.
 
-## Day 3 (**24<sup>th</sup> July 2018**):
+## Day 2 (**24<sup>th</sup> July 2018**):
 ---
 ### Progress
 +   Learnt about Vectorization in detail and its importance in Machine Learning practices
