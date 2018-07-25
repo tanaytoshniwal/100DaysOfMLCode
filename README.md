@@ -34,3 +34,13 @@ It was full of fun, learnt a lot about dealing with **rank 1 arrays** as well as
 
 ### Thoughts
 Now I realized why matrix manipulation is important. Vectorization actually helps a lot and it is the key feature because of which now we are able to run Machine Learning Algorithms much more faster.
+
+## Day 3 (**25<sup>th</sup> July 2018**):
+---
+### Progress
++   Continued my Deep Learning Specialization on Coursera
++   Learnt more about Gradient Descent and how it works
++   Studied various methods of regularizing the Neural Network to prevent overfitting
+
+### Thoughts
+Gradient Descent is a great algorithm in Machine Learning. Enjoyed a lot while learning about this algorithm and the methods to prevent overfitting.
