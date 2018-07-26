@@ -44,3 +44,12 @@ Now I realized why matrix manipulation is important. Vectorization actually help
 
 ### Thoughts
 Gradient Descent is a great algorithm in Machine Learning. Enjoyed a lot while learning about this algorithm and the methods to prevent overfitting.
+
+## Day 4 (**26<sup>th</sup> July 2018**):
+---
+### Progress
++   Learnt about Mini-batch Gradient Descent and a bit about Stochastic Gradient Descent
++   Made some progress with Machine Learning Crash Course.
+
+### Thoughts
+It's actually great to make progress before looking through the entire training set by using small batches and performing Gradient Descent on each such batch. 
