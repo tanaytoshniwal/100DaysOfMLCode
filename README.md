@@ -63,3 +63,10 @@ It's actually great to make progress before looking through the entire training 
 
 ### Thoughts
 It was challenging to train the Linear Regression Model on a dataset I downloaded from Kaggle, so ended up using the Boston Dataset.
+
+## Day 6 (**28<sup>th</sup> July 2018**):
+---
+### Progress
++   Made some progress with the Deep Learning Specialization on Coursera
+### Thoughts
+Not much for the day but got to learn new things.
