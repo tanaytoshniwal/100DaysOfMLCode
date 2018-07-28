@@ -52,4 +52,14 @@ Gradient Descent is a great algorithm in Machine Learning. Enjoyed a lot while l
 +   Made some progress with Machine Learning Crash Course.
 
 ### Thoughts
-It's actually great to make progress before looking through the entire training set by using small batches and performing Gradient Descent on each such batch. 
+It's actually great to make progress before looking through the entire training set by using small batches and performing Gradient Descent on each such batch.
+
+## Day 5 (**27<sup>th</sup> July 2018**):
+---
+### Progress
++   Implemented a Linear Regression Model on the Boston Dataset.
++   Used Scikit Learn Library for the dataset and the Linear Regression Model.
++   Used Matplot Lib to plot the predictions.
+
+### Thoughts
+It was challenging to train the Linear Regression Model on a dataset I downloaded from Kaggle, so ended up using the Boston Dataset.
