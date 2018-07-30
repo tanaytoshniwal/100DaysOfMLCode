@@ -68,5 +68,24 @@ It was challenging to train the Linear Regression Model on a dataset I downloade
 ---
 ### Progress
 +   Made some progress with the Deep Learning Specialization on Coursera
+
 ### Thoughts
 Not much for the day but got to learn new things.
+
+## Day 7 (**29<sup>th</sup> July 2018**):
+---
+### Progress
++   Made some with the ML Crash Course by Google.
++   Learnt about Exponentially Weighted Averages and the Bias Correction in Exponentially Weighted Averages.
+
+### Thoughts
+Got to learn some new Optimization Algorithms
+
+## Day 8 (**30<sup>th</sup> July 2018**):
+---
+### Progress
++   Learnt about Adam Optimization Algorithm
++   Implemented Adam Optimization Algorithm with the Deep Learning Course Assignments
+
+### Thoughts
+Haven't thought of any other Optimization Algorithm to me more efficient as compared to Gradient Descent.
