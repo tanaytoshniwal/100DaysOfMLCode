@@ -89,3 +89,12 @@ Got to learn some new Optimization Algorithms
 
 ### Thoughts
 Haven't thought of any other Optimization Algorithm to me more efficient as compared to Gradient Descent.
+
+## Day 9 (**31<sup>st</sup> July 2018**):
+---
+### Progress
++   Learnt and revised about basics of Building a Neural Network, its working, forward prop and backward prop
++   Made some progress with ML Crash Course
+
+### Thoughts
+Thinking of getting started with Tensorflow for Machine Learning and Deep Learning Applications
