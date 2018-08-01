@@ -98,3 +98,11 @@ Haven't thought of any other Optimization Algorithm to me more efficient as comp
 
 ### Thoughts
 Thinking of getting started with Tensorflow for Machine Learning and Deep Learning Applications
+
+## Day 10 (**1<sup>st</sup>** August 2018):
+---
+### Progress
++   Implemented Deep Dream on Live Video Stream using OpenCV
+
+### Thoughts
+It was bit challenging, still the video stream lags
