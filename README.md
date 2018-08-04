@@ -99,10 +99,36 @@ Haven't thought of any other Optimization Algorithm to me more efficient as comp
 ### Thoughts
 Thinking of getting started with Tensorflow for Machine Learning and Deep Learning Applications
 
-## Day 10 (**1<sup>st</sup>** August 2018):
+## Day 10 (**1<sup>st</sup> August 2018**):
 ---
 ### Progress
 +   Implemented Deep Dream on Live Video Stream using OpenCV
 
 ### Thoughts
 It was bit challenging, still the video stream lags
+
+## Day 11 (**2<sup>nd</sup> August 2018**):
+---
+### Progress
++   Learnt about Batch Normalization and its working
++	Made some progress with the Deep Learning Specialization on Coursera
+
+### Thoughts
+Batch Normalization is a great technique to normalize the activations in a Neural Network. Enjoyed learning about its working
+
+## Day 12 (**3<sup>rd</sup> August 2018**):
+---
+### Progress
++   Started with TensorFlow Framework
++   Learned about basics of Tensors and how to run a session in tensorflow
+
+### Thoughts
+Machine Learning Frameworks are cool. Only one line of code reduces too much of code and complexity.
+
+## Day 13 (**4<sup>th</sup> August 2018**):
+---
+### Progress
++   Completed the Second Course of Deep Learning Specialization on Coursera(Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization)
+
+### Thoughts
+Really Enjoyed a lot during the course and learnt a lot about tuning Hyperparameters, various Optimization Algorithms and much more.
