@@ -132,3 +132,20 @@ Machine Learning Frameworks are cool. Only one line of code reduces too much of 
 
 ### Thoughts
 Really Enjoyed a lot during the course and learnt a lot about tuning Hyperparameters, various Optimization Algorithms and much more.
+
+## Day 14 (**5<sup>th</sup> August 2018**):
+---
+### Progress
++   Started with the Course 3 of Deep Learning Specialization
+
+### Thoughts
+Not much for the day
+
+## Day 15 (**6<sup>th</sup> August 2018**):
+---
+### Progress
++   Started with my own ML Project.
++   Diving Deeper with Python Programming
+
+### Thoughts
+Python is a great programming language. It is a bit difficult to switch to python from java but its worthy to do so.
