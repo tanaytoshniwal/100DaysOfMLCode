@@ -3,7 +3,7 @@ Here's the progress for #100DaysOfMLCode Challenge.
 
 **Find my Blog [here](https://www.tanaytoshniwal.com)**
 
-**[Link to my website](https://www.tanaytoshniwal.com)**
+**[Link to my Portfolio](https://www.tanaytoshniwal.me)**
 
 ## Day 0 (**22<sup>nd</sup> July 2018**):
 ---
