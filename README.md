@@ -141,11 +141,21 @@ Really Enjoyed a lot during the course and learnt a lot about tuning Hyperparame
 ### Thoughts
 Not much for the day
 
-## Day 15 (**6<sup>th</sup> August 2018**):
+## Day 21 (**12<sup>th</sup> August 2018**):
 ---
 ### Progress
-+   Started with my own ML Project.
-+   Diving Deeper with Python Programming
++   Completed the third Course of Deep Learning Specialization on Coursera(Structuring Machine Learning Projects)
+
 
 ### Thoughts
 Python is a great programming language. It is a bit difficult to switch to python from java but its worthy to do so.
+
+## Day 29 (**20<sup>th</sup> August 2018**):
+---
+### Progress
++   Made some progress with Machine Learning Crash Course
++   Saw some videos on Machine Learning with Python
+
+### Thoughts
+Not much for the week (PS: University Exams wont let you do something Interesting and Beneficial).
+
