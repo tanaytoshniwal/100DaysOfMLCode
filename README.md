@@ -159,3 +159,37 @@ Python is a great programming language. It is a bit difficult to switch to pytho
 ### Thoughts
 Not much for the week (PS: University Exams wont let you do something Interesting and Beneficial).
 
+## Day 30 (**21<sup>st</sup> August 2018**):
+---
+### Progress
++   Started with the concepts of Convolutional Neural Networks
+
+## Day 31 (**22<sup>nd</sup> August 2018**):
+---
+### Progress
++   Learnt about the pooling and padding concepts in CNNs
+
+## Day 38 (**29<sup>th</sup> August 2018**):
+---
+### Progress
++   Preparing for the Hackathon Project on Deep Learning with Android.
+
+## Day 40 (**31<sup>st</sup> August 2018**):
+---
+### Progress
++   Won the Hackathon with our Android Application that classifies Melanoma skin cancer remotely with nearby hospital finder functions.
+
+### Thoughts
+That was my first hackathon I've won.
+Such an amazing experience to apply Deep Learning with Android Application.
+
+## Day 44 (**4<sup>th</sup> September 2018**):
+---
+### Progress
++   Learnt about the classic architectures of CNNs:
+```
+LeNet-5
+Alex Net
+VGG-16
+ResNets
+```
