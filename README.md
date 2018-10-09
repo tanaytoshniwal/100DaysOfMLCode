@@ -193,3 +193,11 @@ Alex Net
 VGG-16
 ResNets
 ```
+
+## Day 74 (**4<sup>th</sup> October 2018**):
+---
+### Progress
++   Completed Deep Learning Specialization by [deeplearning.ai](https://deeplearning.ai)
+
+### Thoughts
+Finally completed this amazing specialization. Thanks to Coursera and Andrew Ng for this course and an amazing content.
