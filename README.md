@@ -201,3 +201,16 @@ ResNets
 
 ### Thoughts
 Finally completed this amazing specialization. Thanks to Coursera and Andrew Ng for this course and an amazing content.
+
+## Day 75 (**1<sup>st</sup> November 2018**):
+---
+### Progress
++   Getting started with Tensorflow.js
++   Learnt about how to create tensors and some basic operations
+
+### Thoughts
+Got the motivation from already implemented applications like posenet
+
+## Day 76 (**2<sup>nd</sup> November 2018**):
+---
+### Progress
