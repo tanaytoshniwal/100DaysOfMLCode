@@ -211,6 +211,12 @@ Finally completed this amazing specialization. Thanks to Coursera and Andrew Ng 
 ### Thoughts
 Got the motivation from already implemented applications like posenet
 
-## Day 76 (**2<sup>nd</sup> November 2018**):
+## Day 76 (**1<sup>st</sup> December 2018**):
+---
+### Progress
++   Implemented XOR Function using Neural Networks in Tensorflow
++   Learned about the use of one-hot encoding in machine learning
+
+## Day 77 (**2<sup>nd</sup> December 2018**):
 ---
 ### Progress
